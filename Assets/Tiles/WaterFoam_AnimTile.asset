@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterFoam_AnimTile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 7719031016704165906, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 2475339779417956850, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 1368361979386037142, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -766873523460153263, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 7281069523013521248, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 8564178614618468903, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -1497738261252970312, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 3902160581388215499, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 4252678868014558626, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -5421897319376751947, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 4485226919938953140, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -7388406545564056322, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -3085914490448623260, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -2043331405722458453, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: 4043277615594844432, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  - {fileID: -6965086885869333482, guid: 94bf8d68b075eeb42ab5c6f8c2000dd2, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

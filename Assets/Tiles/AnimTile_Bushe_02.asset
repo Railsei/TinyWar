@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: AnimTile_Bushe_02
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1622924209, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: -912976869, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: 652627351, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: 2016184742, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: -1224726045, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: 1704457359, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: -904948521, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  - {fileID: -1054604342, guid: d29feb4bae03cf448832b599b304769a, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 12
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
